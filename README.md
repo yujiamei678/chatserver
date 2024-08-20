@@ -69,3 +69,5 @@ cd bin
 ```c++
 ./ChatClient 127.0.0.1 8000
 ```
+作者：myj
+联系方式：meiyujia224@163.com
